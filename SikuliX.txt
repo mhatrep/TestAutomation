@@ -1,0 +1,10 @@
+http://sikulix.com/
+
+Just download, move it to a folder of your choice and doubleclick to run it.
+An alternative to run it is from commandline using
+
+java -jar path-to/sikulix.jar
+
+If you have any problems, run this from a commandline and analyse the log output
+
+java -jar path-to/sikulix.jar -v -c
